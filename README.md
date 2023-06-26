@@ -44,5 +44,5 @@ Contribuições são bem-vindas! Caso tenha sugestões, correções de bugs ou m
 
 ## Agradecimentos
 
-Gostaríamos de agradecer ao professor <a>Rodolfo Mori<a> por propor o desafio e ao <a>DevClub<a> pelas aulas e suporte durante o desenvolvimento deste projeto.
+Gostaríamos de agradecer ao professor [Rodolfo Mori](https://github.com/rodolfomori) por propor o desafio e ao <a>DevClub<a> pelas aulas e suporte durante o desenvolvimento deste projeto.
 
