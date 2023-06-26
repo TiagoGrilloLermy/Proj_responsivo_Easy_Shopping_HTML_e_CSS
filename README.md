@@ -4,6 +4,7 @@ Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desa
 <div align=center">
 <img src="./assets/easy-shopping.png">
 </div>
+
 ## Tecnologias Utilizadas
 
 - HTML
