@@ -30,5 +30,5 @@ A aplicação possui as seguintes funcionalidades:
 
 ## Agradecimentos
 
-Gostaríamos de agradecer ao professor [Rodolfo Mori](https://github.com/rodolfomori) por propor o desafio e ao <a>DevClub<a> pelas aulas e suporte durante o desenvolvimento deste projeto.
+Gostaríamos de agradecer ao professor [Rodolfo Mori](https://github.com/rodolfomori) por propor o desafio e ao <a href="https://rodolfomori.com.br/devclub/">DevClub<a> pelas aulas e suporte durante o desenvolvimento deste projeto.
 
