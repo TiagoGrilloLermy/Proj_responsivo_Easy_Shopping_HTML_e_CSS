@@ -1,13 +1,14 @@
-<h1 align="center">Projeto Responsivo - Easy Shopping</h1>
+# Projeto Easy Shopping - Aplicação Responsiva
+
+Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desafio proposto pelo professor Rodolfo Mori. A proposta foi criar uma aplicação web responsiva, ou seja, capaz de se adaptar a diferentes dispositivos, como celulares, tablets, notebooks e desktops.
 <div align=center">
   
 <img src="./assets/easy-shopping.png">
 
 </div>
 
-<h2></h2>
 
-# Projeto do DevClub - Aplicação Responsiva
+# Projeto Easy Shopping - Aplicação Responsiva
 
 Este é um projeto desenvolvido durante as aulas do DevClub, com base em um desafio proposto pelo professor Rodolfo Mori. A proposta foi criar uma aplicação web responsiva, ou seja, capaz de se adaptar a diferentes dispositivos, como celulares, tablets, notebooks e desktops.
 
@@ -31,7 +32,7 @@ A aplicação possui as seguintes funcionalidades:
 
 1. Clone o repositório para o seu ambiente local:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/TiagoGrilloLermy/projeto-responsivo-easy-shopping.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador web compatível.
@@ -44,12 +45,9 @@ Contribuições são bem-vindas! Caso tenha sugestões, correções de bugs ou m
 
 ## Autores
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Tiago Grillo Lermy](https://github.com/TiagoGrilloLermy)
 
 ## Agradecimentos
 
-Gostaríamos de agradecer ao professor Rodolfo Mori por propor o desafio e ao DevClub pelas aulas e suporte durante o desenvolvimento deste projeto.
+Gostaríamos de agradecer ao professor <a>Rodolfo Mori<a> por propor o desafio e ao <a>DevClub<a> pelas aulas e suporte durante o desenvolvimento deste projeto.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
